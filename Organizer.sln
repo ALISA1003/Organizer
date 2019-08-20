@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organizer", "Organizer\Organizer.csproj", "{8FA6C18F-1BF0-46A5-B4CF-B0EA2711EC61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organizer.Test", "Organizer.Test\Organizer.Test.csproj", "{2B6F61A8-8CCC-416E-A430-681D8085FAD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA6C18F-1BF0-46A5-B4CF-B0EA2711EC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA6C18F-1BF0-46A5-B4CF-B0EA2711EC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA6C18F-1BF0-46A5-B4CF-B0EA2711EC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA6C18F-1BF0-46A5-B4CF-B0EA2711EC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6F61A8-8CCC-416E-A430-681D8085FAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6F61A8-8CCC-416E-A430-681D8085FAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6F61A8-8CCC-416E-A430-681D8085FAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6F61A8-8CCC-416E-A430-681D8085FAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
